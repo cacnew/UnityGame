@@ -15,10 +15,7 @@ public class controleJogo : MonoBehaviour
 
     public GameObject gameOver;
 
-    
-    
-    
-    
+     
     
     void Start()
     {

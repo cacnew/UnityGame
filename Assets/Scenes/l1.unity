@@ -4592,5 +4592,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: proximoNivel
       objectReference: {fileID: 0}
+    - target: {fileID: 9151642142440121854, guid: ed9211cd703d31b45a2365e3751b65d0, type: 3}
+      propertyPath: m_SortingOrder
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed9211cd703d31b45a2365e3751b65d0, type: 3}
